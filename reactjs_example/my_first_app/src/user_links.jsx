@@ -57,7 +57,7 @@ export const UserLinks = () => {
 
         {showPhone && (
           <div className="phone-number">
-            +91 98765 43210
+            +91 8850512445
           </div>
         )}
       </div>
