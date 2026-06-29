@@ -30,7 +30,7 @@ export const UserLinks = () => {
       </a>
 
       <a
-        href="https://linkedin.com/in/your_profile"
+        href="https://www.linkedin.com/in/rohit-shetty-451ab728a/"
         target="_blank"
         rel="noreferrer"
       >
