@@ -26,7 +26,7 @@ export const UserProfile = ({
 
         <div className="stats">
           <h3>I did my QA Internship at Sort Solutions</h3>
-          <h3><i>To Check out more about My Learnings,Interships view my Resume</i></h3>
+          <h3><i>To Check out more about My Learnings,Internships view my Resume</i></h3>
         </div>
 
        
