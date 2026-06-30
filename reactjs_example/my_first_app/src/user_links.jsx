@@ -4,7 +4,8 @@ import {
   FaGithub,
   FaLinkedin,
   FaPhone,
-  FaFilePdf
+  FaFilePdf,
+  FaFileAlt
 } from "react-icons/fa";
 
 export const UserLinks = () => {
@@ -17,6 +18,7 @@ export const UserLinks = () => {
         href="https://www.instagram.com/shetty_rohit24/"
         target="_blank"
         rel="noreferrer"
+        title="Instagram"
       >
         <FaInstagram />
       </a>
@@ -25,6 +27,7 @@ export const UserLinks = () => {
         href="https://github.com/RohitkdShetty"
         target="_blank"
         rel="noreferrer"
+        title="GitHub"
       >
         <FaGithub />
       </a>
@@ -33,9 +36,17 @@ export const UserLinks = () => {
         href="https://www.linkedin.com/in/rohit-shetty-451ab728a/"
         target="_blank"
         rel="noreferrer"
+        title="LinkedIn"
       >
         <FaLinkedin />
       </a>
+      <button
+    className="icon-btn"
+    onClick={() => window.open('/Resume_Rohit_shetty_.pdf', '_blank')}
+    title="View Resume"
+>
+     <FaFileAlt />
+       </button>
       
       <a
       href="/Resume_Rohit_shetty_.pdf"
@@ -51,6 +62,7 @@ export const UserLinks = () => {
         <button
           className="phone-icon"
           onClick={() => setShowPhone(!showPhone)}
+          title="View Phone Number"
         >
           <FaPhone />
         </button>
