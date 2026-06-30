@@ -251,7 +251,7 @@ body{
 
 .project-btn{
     margin-top:20px;
-
+    width:fit-content;
     padding:15px 35px;
 
     border:none;
@@ -350,7 +350,7 @@ body{
     z-index: 1000;
 }
 
-.social-icons a{
+.social-icons a,button{
     width: 60px;
     height: 60px;
 
@@ -375,7 +375,7 @@ body{
     box-shadow:
         0 0 15px rgba(255,255,255,0.2);
 }
-.social-icons a{
+.social-icons a,button{
     animation: floatIcons 3s ease-in-out infinite;
 }
 
@@ -393,7 +393,7 @@ body{
     }
 }
 
-.social-icons a:hover{
+.social-icons a:hover,button:hover{
     transform: scale(1.2);
 
     box-shadow:
