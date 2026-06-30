@@ -7,7 +7,7 @@ A modern and responsive portfolio website built using **React.js** to showcase m
 Add your deployed portfolio link here:
 
 ```text
-https://your-portfolio-link.vercel.app
+https://rohit-shetty-qa-portfolio.vercel.app/
 ```
 
 ---
@@ -16,10 +16,10 @@ https://your-portfolio-link.vercel.app
 
 * Responsive and modern UI design
 * Personal profile section
-* QA internship details
 * Learning and skills showcase
 * Social media integration
 * Downloadable resume option
+* View resume Option
 * GitHub and LinkedIn profile links
 * Interactive buttons and animations
 
@@ -69,7 +69,8 @@ Duration: **2 Months**
 ## 📷 Portfolio Preview
 
 Add a screenshot of your portfolio here.
-<img width="1530" height="697" alt="image" src="https://github.com/user-attachments/assets/3f607e8a-e94b-4449-ae2b-ff41bc54aa73" />
+<img width="1536" height="688" alt="image" src="https://github.com/user-attachments/assets/839be533-463a-4b45-b4fa-c977df7df416" />
+
 
 
 ## ⚙️ Installation
